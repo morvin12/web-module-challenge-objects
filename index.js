@@ -111,7 +111,7 @@ function addReview(array, name, rating, feedback) {
   return array;
   
 }
-// console.log('task 5:', addReview('Daniela', 5,'Beautiful atmosphere and wonderful vegan options!'));
+console.log('task 5:', addReview(reviews, 'Daniela', 5,'Beautiful atmosphere and wonderful vegan options!'));
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 6: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 Write a function to return a review based on the index of the review in the array.
